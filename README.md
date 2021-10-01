@@ -6,10 +6,9 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
-- 🌱 I’m currently learning blockchain technologies
+- 🌱 I’m currently working with blockchain technologies
 - 🤔 I’m looking to help with buliding defi, dapp, NFT marketplace, and web apps
 - 💬 Ask me about web and blockchain development
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
 
