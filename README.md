@@ -1,6 +1,6 @@
 ### Hey Everyone 👋
 
-Hi. I'm a Full-Stack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, Rust), JavaScript/Typescript (Preact, Next.js, Vue.js, TensorFlow.js, Node, Deno), Python among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
+Hi. I'm a Full-Stack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, Rust), JavaScript/Typescript (React, Next.js, Vue.js, TensorFlow.js, Node, Express, Nest), Python(Django, Flask) among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
 
 Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the Defi DApp and NFT marketplace development stack.
 
