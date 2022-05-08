@@ -1,6 +1,6 @@
 ### Hey Everyone 👋
 
-Hi. I'm a Full-Stack developer who likes to work with Blockchain(Ethereum, Binance, Solana || Solidity, Rust), JavaScript/Typescript (React, Next.js, Vue.js, TensorFlow.js, Node, Express, Nest), Python(Django, Flask) among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
+Hi. I'm a Full-Stack developer who likes to work with Blockchain(Solana, Terra, Ethereum, Binance, Polygon, Fantom || Rust, Solidity, Go/Golang, Web3.js, Ether.js, Terra.js), JavaScript/Typescript (React, Next.js, Vue.js, TensorFlow.js, Node, Express, Nest), Python(Django, Flask) among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
 
 Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the Defi DApp and NFT marketplace development stack.
 
@@ -13,7 +13,9 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 
 
 ### Languages and Tools:
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -26,13 +28,17 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 #### Blockchain Development
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Terra-informational?style=flat&logo=terra&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Binance-informational?style=flat&logo=binance&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Fantom-informational?style=flat&logo=fantom&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Polygon-informational?style=flat&logo=polygon&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Web3-informational?style=flat&logo=web3&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Terra-informational?style=flat&logo=terra&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
