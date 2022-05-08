@@ -15,7 +15,6 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -37,8 +36,8 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Web3-informational?style=flat&logo=web3&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Terra-informational?style=flat&logo=terra&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Web3.js-informational?style=flat&logo=web3.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Terra.js-informational?style=flat&logo=terra.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
